@@ -67,7 +67,6 @@ while True:
             pygame.mixer.Sound.play(vitoria)
             somDaVitoria = True
         
-    
     if movXCar1 > 1000:
         movXCar1 = 0
         posYCar1 = 340
