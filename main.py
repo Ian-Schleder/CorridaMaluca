@@ -1,7 +1,6 @@
 from recursos.funcoes import limparTela
-import pygame
-import random
-import time
+import pygame, time, random
+
 
 pygame.init()
 tamanho = (1000,592)
